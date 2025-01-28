@@ -1,0 +1,24 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "cmuth001@odu.edu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshit17xd/Docker-Web-App.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshit17xd/Docker-Web-App/issues"
+  },
+  "homepage": "https://github.com/harshit17xd/Docker-Web-App#readme"
+}
+
+
